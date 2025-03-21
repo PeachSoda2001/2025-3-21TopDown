@@ -52,9 +52,9 @@ MonoBehaviour:
   MaximumObjectsToHit: 1
   AllowedLayers:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 0
   PassThroughDisallowedLayers: 0
-  IgnoreAllTriggers: 1
+  IgnoreTriggers: 1
   Cooldown: 0.5
   Raycast:
     m_Name: Raycast
@@ -138,6 +138,7 @@ MonoBehaviour:
       m_Action: Target
       m_Flags: 8
     m_Flags: 0
+  SnapTargetToYPlane: 1
 --- !u!114 &7781654708983548163
 MonoBehaviour:
   m_ObjectHideFlags: 0

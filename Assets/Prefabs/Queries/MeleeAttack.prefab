@@ -459,7 +459,7 @@ MonoBehaviour:
   MaximumObjectsToHit: 1
   AllowedLayers:
     serializedVersion: 2
-    m_Bits: 499
+    m_Bits: 51
   RequiresLineOfSight: 0
   Cooldown: 1
   SweepHitboxes:
